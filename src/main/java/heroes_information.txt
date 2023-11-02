@@ -1,0 +1,6 @@
+Hero: PHANTOM_ASSASSIN, role: CARRY
+Hero: PUCK, role: MIDER
+Hero: TRENT_PROTECTOR, role: FULL_SUPPORT
+Hero: PUDGE, role: MIDER
+Hero: AXE, role: HARDLINER
+Hero: UNDYING, role: HARDLINER

@@ -1,0 +1,7 @@
+Player's name: Alexandr, 
+player's nickname: TORONTOTOKYO, 
+player's role: MIDER, 
+player's nationality: Russian
+---------------------------
+Player's hero name: PUCK, 
+hero's role: MIDER

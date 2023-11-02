@@ -1,0 +1,7 @@
+Player's name: Sasha, 
+player's nickname: Mortred, 
+player's role: FULL_SUPPORT, 
+player's nationality: Ukrainian
+---------------------------
+Player's hero name: TRENT_PROTECTOR, 
+hero's role: FULL_SUPPORT

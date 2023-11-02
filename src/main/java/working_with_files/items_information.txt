@@ -1,0 +1,7 @@
+Item name: Batterfly, price: 5450
+Item name: Divine Rapier, price: 7600
+Item name: Black King Bar, price: 4500
+Item name: Desolator, price: 3500
+Item name: Mango, price: 75
+Item name: Daedalus, price: 5400
+Item name: Tango, price: 50

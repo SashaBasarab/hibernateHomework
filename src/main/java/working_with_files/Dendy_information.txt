@@ -1,0 +1,7 @@
+Player's name: Danylo, 
+player's nickname: Dendy, 
+player's role: MIDER, 
+player's nationality: Ukrainian
+---------------------------
+Player's hero name: PUDGE, 
+hero's role: MIDER
